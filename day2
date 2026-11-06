@@ -1,0 +1,15 @@
+Explain process states (running, sleeping, zombie, etc.)
+  Running Process:- the state defines the running server or which server in use they can be define
+  Sleeping Process:- In a case of theses state the process is running but they can waiting for an event or for a specific task
+  Zombie Process:- In these case the zombie process the process or server can be terminated but they can be in runnning proces 
+        they can be terminated after a parent process terminating 
+  Stop Process:- I these case a the server can be stoppes
+  Terminating Process:- In these case the process will be terminating 
+
+
+  ##List 5 commands you would use daily
+    1.Touch
+    2.ls
+    3.mkdir
+    4.pwd
+    5.sudo

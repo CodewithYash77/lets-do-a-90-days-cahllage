@@ -1,0 +1,31 @@
+# Day 03 – Linux Commands Practice
+
+You will create a cheat sheet of commands focused on:
+Process management:-
+  ps,ps aux,top,htop,kill,pkill,kill -9,jobs,bg %1,fg %1
+File system:-
+  ls,touch,cat,mkdir,rm,rm -rf
+Networking troubleshooting:-
+  ping,ip a,ifconfig.me,curl,traceroute
+  ##Include at least 20 commands with one‑line usage notes:-
+    1.cat:-to read a file txt or informationin the file
+    2.Touch:-It can be used for to making a file or to change a timestramp of the file
+    3.mkdir:-It can be used for to make a directory
+    4.ls:-It can be used to list a files are presented in the dir
+    5.ls -a:- These also used for listing but they can show a hidden files starting fron .git
+    6.curl:-these can be used to port a website on net
+    7.ping:-these command can be used to check a internet connection of the server
+    8.cd:- these can be used to change a directory
+    9.pwd:- these can be used to check a present location of directory
+    10.whoami:- check a hostname of machine
+    11.ps:- these can be used to check a running process
+    12.top:- they can also give info about process but they can also shie cpu utilization and memory uses
+           live
+14. **htop**: An interactive and colorful process viewer (requires installation).
+15. **kill**: Sends a termination signal (SIGTERM) to gracefully stop a process using its PID.
+16. **kill -9**: Forcefully terminates an unresponsive process immediately (SIGKILL).
+17. **pkill**: Stops a running process using its name instead of the PID.
+18. **jobs**: Lists active background jobs and their job IDs in the current shell session.
+19. **bg %1**: Resumes a stopped background job and keeps it running in the background.
+20. **fg %1**: Brings a background job back to the foreground terminal session.
+   
